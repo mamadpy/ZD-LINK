@@ -14,7 +14,7 @@
 
 ▪️فقد برای راه اندازی و ساخت ربات خودتون کافیه فایل Setup.exe رو اجرا کنید و اقدام به نصب و اجرای برنامه کنید.
 
-<img width="1300" alt="Tkinter Designer GUI" src="https://github.com/mamadpy/Zd-Link/blob/main/screenshot.png">
+<img width="1300" alt="Tkinter Designer GUI" src="https://github.com/MohammadrezaFirouzi/BOT-RUBIKA/blob/main/Untitled1.png">
 
 
 
