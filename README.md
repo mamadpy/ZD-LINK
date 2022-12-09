@@ -34,6 +34,6 @@
 
 
 
-### 📢 Channel Rubika
+### 📢 کانال روبیکا
 <a href="https://rubika.ir/Fox_learn">🌐Join Channel</a>
 
