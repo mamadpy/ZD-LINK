@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1300" src="[https://github.com/mamadpy/Zd-Link/blob/main/Untitled.png](https://github.com/MohammadrezaFirouzi/BOT-RUBIKA/blob/main/Untitled.png" alt="logo">
+  <img width="1300" src="https://github.com/MohammadrezaFirouzi/BOT-RUBIKA/blob/main/Untitled.png" alt="logo">
   <h2 align="center" style="margin: 0 auto 0 auto;">ربات ضدلینک روبیکا نسخه ویندوز</h2>
   </p>
 
